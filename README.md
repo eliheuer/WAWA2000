@@ -1,2 +1,2 @@
-# Dough Variable Font
+# Blob Variable Font
 test
