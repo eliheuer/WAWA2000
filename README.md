@@ -1,2 +1,1 @@
 # Blob Variable Font
-test
