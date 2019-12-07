@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="420"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="210" y="0" type="qcurve" smooth="yes"/>
+      <point x="310" y="0"/>
+      <point x="380" y="50"/>
+      <point x="380" y="140" type="qcurve" smooth="yes"/>
+      <point x="380" y="280"/>
+      <point x="360" y="543"/>
+      <point x="360" y="700" type="qcurve" smooth="yes"/>
+      <point x="360" y="850"/>
+      <point x="380" y="1100"/>
+      <point x="380" y="1230" type="qcurve" smooth="yes"/>
+      <point x="380" y="1341"/>
+      <point x="300" y="1400"/>
+      <point x="210" y="1400" type="qcurve" smooth="yes"/>
+      <point x="120" y="1400"/>
+      <point x="40" y="1347"/>
+      <point x="40" y="1260" type="qcurve" smooth="yes"/>
+      <point x="40" y="1140"/>
+      <point x="60" y="870"/>
+      <point x="60" y="700" type="qcurve" smooth="yes"/>
+      <point x="60" y="544"/>
+      <point x="40" y="260"/>
+      <point x="40" y="140" type="qcurve" smooth="yes"/>
+      <point x="40" y="50"/>
+      <point x="110" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/15 13:48:52</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
